@@ -1,0 +1,19 @@
+Nombre producto;Tipo;Precio;No Serie;Marca;Ano fabricacion;Mes fabricacion;Dia fabricacion;Marcador AR
+Samsung Galaxy Z Fold3;Smartphone;12000;012B21;Samsung;2021;10;23;||-----|--||
+iPhone 1;Smartphone;4500;123C11;Apple;2008;6;20;|-||--|-----
+Nokia N73;Telefono celular;500;385A02;Nokia;2003;11;3;|||---|--|
+BlackBerry Bold 9000;Telefono celular;200;910C10;BlackBerry;2005;1;15;|---|--|---
+Panasonic KX-TS8/24;Telefono fijo;800;634D23;Panasonic;2000;3;16;|-|-||-----
+Doro PhoneEasy 110;Telefono fijo;1020;972B06;Doro;2001;9;22;|----------|
+Panasonic Lumix GM1;Camara fotografica;500;498F08;Panasonic;1998;4;1;|---||-----|
+Olympus XZ-2;Camara fotografica;350;653A23;Olympus;1995;7;12;|||----||---
+Dell XPS 8940;Computador de Escritorio;15000;502C09;Dell;2009;12;14;|-----||-----
+HP Omem 30L;Computador de Escritorio;18000;613A01;HP;2018;2;5;||---------|-
+MacBook Pro 8;Laptop;10000;829B03;Apple;2011;5;27;|---|-||----|
+Lenovo Yoga 900;Laptop;7500;051F05;Lenovo;2015;11;30;||||---|||-
+Samsung QN900A Neo QLED;Smart TV;9560;069B12;Samsung;2017;10;20;||---|-|-|--|
+LG OLED evo 4K;Smart TV;8999;803V09;LG;2020;6;19;|---|-|||---
+Microsoft Surface 3;Tablet;3699;437A17;Microsoft;2014;9;25;|---|----|---
+iPad Air;Tablet;11980;621C06;Apple;2013;1;29;|-|-|------||
+Fitbit Sense;Smartwatch;3260;765B00;Fitbit;2019;5;26;||----|--|--|
+Apple Watch Series 2;Smartwatch;2950;900F08;Apple;2016;8;23;|-|-|---|-|
